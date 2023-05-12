@@ -1,6 +1,8 @@
 # Doguito 🐶
 
   Doguito é um projeto criado durante um curso sobre JavaScript na plataforma Alura, com o objetivo de auxiliar no aprendizado de desenvolvimento WEB utilizando a linguagem JavaScript focado em validações, sendo uma página WEB sobre um PetShop onde é feito um cadastro, o principal foco desse projeto são as validações deste cadastro.
+  
+![print da página](https://github.com/GABRIEL-ASSYS/Doguito/blob/main/assets/img/print.png)
 
 ## 🚀 Começando
 
